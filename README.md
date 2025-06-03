@@ -18,5 +18,4 @@
 
   ![](https://komarev.com/ghpvc/?username=gaabsjrer&color=006bed)
   [![Gmail Badge](https://img.shields.io/badge/-gabriellucenasajr@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriellucenasajr@gmail.com)](mailto:gabriellucenasajr@gmail.com)
-  [![GitHub](https://img.shields.io/github/followers/gaabsjrer?label=follow&style=social)]((https://github.com/gaabsjrer))
 </p>
